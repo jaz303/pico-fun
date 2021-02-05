@@ -12,3 +12,4 @@ pico_sdk_init()
 
 add_subdirectory(blink)
 add_subdirectory(hello_world)
+add_subdirectory(st7735_test)
